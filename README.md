@@ -1,1 +1,3 @@
 # Predicting-University-Students-Mental-Health-Conditions-with-Classifications-Model
+
+This study aims to predict whether students require specialist treatment for mental health problems based on the dataset that has been collected. This research uses a dataset that will be processed first to eliminate datasets that cannot be used and unusable and empty datasets so that the dataset is clean and can be continued to the next stage. The clean dataset will be applied to three data mining algorithms such as K-NN, Naive Bayes. This research ends with the results and visualization of the algorithms that have been applied to the dataset.
